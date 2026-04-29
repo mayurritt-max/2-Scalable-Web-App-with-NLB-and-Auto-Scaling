@@ -14,26 +14,28 @@ Network Load Balancer
 Auto Scaling
 
 Instances :-
-<img width="625" height="352" alt="image" src="https://github.com/user-attachments/assets/dd424ce0-58e2-475a-b1e3-90f89109b592" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/9f4ebf90-3bdc-4477-8f34-d48b0207c611" />
 
 Launch Templet :-
-<img width="625" height="352" alt="image" src="https://github.com/user-attachments/assets/8ebf13ec-cd03-48b2-8e32-fcedd1d749e7" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/d4ff051a-7804-4f4e-9c80-34309935d2da" />
 
 Target group :-
-<img width="625" height="352" alt="image" src="https://github.com/user-attachments/assets/9af9d23b-b967-4a78-8523-2d8ea140f580" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/5d885fd9-b8b8-48db-8516-fcbd4eff5261" />
 
-<img width="625" height="352" alt="image" src="https://github.com/user-attachments/assets/361fbea2-a04e-466e-9fc5-342041bc0297" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/05cbae06-30de-46a0-9c11-cceb0e849e02" />
 
 Load balancers :-
-<img width="625" height="352" alt="image" src="https://github.com/user-attachments/assets/409f53f7-3194-4d5e-8878-85c609402957" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/2a426f9a-c8a1-465e-9895-dbc44a431e57" />
 
 Auto scaling :- 
-<img width="625" height="352" alt="image" src="https://github.com/user-attachments/assets/0855612e-a274-42f3-a62c-53b2beae84a7" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/ea872376-256f-4184-bc90-e05a44c79ddd" />
 
 Output :-
-<img width="625" height="89" alt="image" src="https://github.com/user-attachments/assets/9bd38d7c-89e6-42d4-aaae-80b23cde6333" />
-<img width="625" height="94" alt="image" src="https://github.com/user-attachments/assets/37806ab1-52bd-442f-abfe-cd29f7b299cd" />
-<img width="625" height="86" alt="image" src="https://github.com/user-attachments/assets/dc68838d-478b-43c8-a307-ac4cb7471800" />
+<img width="380" height="182" alt="7" src="https://github.com/user-attachments/assets/034b16a8-63a7-4476-b886-514876366fb8" />
+
+
+
+
 
 
 
